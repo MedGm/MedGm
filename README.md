@@ -17,7 +17,7 @@ I am a **Software and Intelligent Systems Engineering student** with a passion f
 - **Tools:** Git, GitHub, Visual Studio Code, etc.  
 
 ## 🌟 Featured Projects  
-- 🔹 **Project Name**: **(soon)...**
+- 🔹 **Latest Project Name**: **Student Management System**
 
 ## 📈 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=medgm&show_icons=true&theme=radical)  
