@@ -12,9 +12,9 @@ I am a **Software and Intelligent Systems Engineering student** with a passion f
 - 📧 Email: elgorrim.mohamed@etu.uae.ac.ma
 
 ## 🛠️ Skills and Tools  
-- **Languages:** C++, PHP, JavaScript, etc.  
-- **Frameworks:** React, Laravel, etc.  
-- **Tools:** Git, GitHub, Visual Studio Code, etc.  
+- **Languages:** C++, PHP, Java, etc.  
+- **Frameworks:** React, Symfony, etc.  
+- **Tools:** Git, Intellij, Visual Studio Code, etc.  
 
 ## 🌟 Featured Projects  
 - 🔹 **Latest Project Name**: **Student Management System**
