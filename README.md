@@ -80,7 +80,7 @@ I am a **Software and Intelligent Systems Engineering student** passionate about
 ![Profile Views](https://komarev.com/ghpvc/?username=medgm&color=blueviolet&style=for-the-badge)
 
 ---
-### ⭐️ From [MedGm](https://github.com/MedGm) with 💻
+### [MedGm](https://github.com/MedGm) with 💻
 
 </div>
 
