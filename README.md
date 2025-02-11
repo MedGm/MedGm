@@ -72,8 +72,6 @@ I am a **Software and Intelligent Systems Engineering student** passionate about
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=medgm&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=medgm&theme=tokyonight&hide_border=true)
-
 </div>
 
 <div align="center">
