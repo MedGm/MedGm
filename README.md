@@ -1,20 +1,25 @@
 <div align="center">
-  
+
 # 👋 Welcome to My GitHub Profile!
 
 ### I'm MOHAMED EL GORRIM (@MedGm)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&random=false&width=435&lines=Software+Engineering+Student;AI+Enthusiast;Full+Stack+Developer;Game+Development+Passionate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&random=false&width=435&lines=Software+Engineering+Student;AI+Enthusiast;Full+Stack+Developer;Game+Dev+Explorer)](https://git.io/typing-svg)
 
 </div>
 
+---
+
+
+## 👨‍💻 About Me
+
 I am a **Software and Intelligent Systems Engineering student** passionate about **Artificial Intelligence** and **Development**. I love exploring new technologies, diving into **game development**, and constantly expanding my knowledge in **AI technologies**.
 
-## 🚀 About Me
-- 🔭 Currently learning and experimenting with **AI** & **Software Development**
-- 🌱 Passionate about exploring cutting-edge technologies and building innovative solutions
-- 🎮 Enthusiastic about **game development** and integrating AI into interactive experiences
-- 👨‍💻 Always open to collaborating on exciting projects
+- Currently learning and experimenting with **AI** & **Software Development**
+- Passionate about exploring cutting-edge technologies and building innovative solutions
+- Enthusiastic about **game development** and integrating AI into interactive experiences
+- Chess Enthusiast
+- Always open to collaborating on exciting projects
 
 <div align="center">
 
@@ -25,42 +30,59 @@ I am a **Software and Intelligent Systems Engineering student** passionate about
 
 </div>
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### 💻 Languages
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/MedGm)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/MedGm)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/MedGm)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/MedGm)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![PHP](https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🔧 Frameworks & Libraries
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/MedGm)
-[![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/MedGm)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/MedGm)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://github.com/MedGm)
+### 🧱 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-BB2C00?style=for-the-badge&logo=nodered&logoColor=white)
 
-### 🛠️ Tools & Technologies
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MedGm)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/MedGm)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://github.com/MedGm)
-[![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)](https://github.com/MedGm)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://github.com/MedGm)
+### 🕹️ Game Development
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### 💾 Databases
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/MedGm)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/MedGm)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🧪 Tools & IDEs
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-0A0F3D?style=for-the-badge&logo=clion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🧠 AI & ML Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### 💻 Operating Systems (Currently Using)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/MedGm)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/MedGm)
 
+---
+
 ## 🌟 Featured Projects
 
 <div align="center">
 
-[![QT Project Card](https://github-readme-stats.vercel.app/api/pin/?username=MedGm&repo=QTproject&theme=tokyonight)](https://github.com/MedGm/QTproject)
-[![PHP Project Card](https://github-readme-stats.vercel.app/api/pin/?username=MedGm&repo=PHP-Project&theme=tokyonight)](https://github.com/MedGm/PHP-Project)
-[![GameHaven Card](https://github-readme-stats.vercel.app/api/pin/?username=MedGm&repo=GameHaven&theme=tokyonight)](https://github.com/MedGm/GameHaven)
+[![TARL Game](https://github-readme-stats.vercel.app/api/pin/?username=MedGm&repo=TARL-Game&theme=tokyonight)](https://github.com/MedGm/TARL-Game)
+
+[![GameHaven](https://github-readme-stats.vercel.app/api/pin/?username=MedGm&repo=GameHaven&theme=tokyonight)](https://github.com/MedGm/GameHaven)
+
+[![PHP Project](https://github-readme-stats.vercel.app/api/pin/?username=MedGm&repo=PHP-Project&theme=tokyonight)](https://github.com/MedGm/PHP-Project)
 
 </div>
 
@@ -68,9 +90,11 @@ I am a **Software and Intelligent Systems Engineering student** passionate about
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medgm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=MedGm&theme=tokyonight&hide_border=true)
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MedGm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=medgm&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MedGm&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -80,7 +104,7 @@ I am a **Software and Intelligent Systems Engineering student** passionate about
 ![Profile Views](https://komarev.com/ghpvc/?username=medgm&color=blueviolet&style=for-the-badge)
 
 ---
-### [MedGm](https://github.com/MedGm) with 💻
+### [MedGm](https://github.com/MedGm) 💻 Building the future one commit at a time
 
 </div>
 
