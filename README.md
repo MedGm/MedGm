@@ -44,7 +44,7 @@ I am a **Software and Intelligent Systems Engineering student** passionate about
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-BB2C00?style=for-the-badge&logo=nodered&logoColor=white)
 
@@ -55,6 +55,7 @@ I am a **Software and Intelligent Systems Engineering student** passionate about
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-BB2C00?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🧪 Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -66,6 +67,7 @@ I am a **Software and Intelligent Systems Engineering student** passionate about
 
 ### 🧠 AI & ML Tools
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow.js](https://img.shields.io/badge/tensorflow.js-ffff19?style=for-the-badge&logo=tensorflow&logoColor=grey)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### 💻 Operating Systems (Currently Using)
