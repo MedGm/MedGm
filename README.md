@@ -78,15 +78,22 @@ I am a **Software and Intelligent Systems Engineering student** passionate about
 
 ## 🌟 Featured Projects
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-[![TARL Game](https://github-readme-stats.vercel.app/api/pin/?username=MedGm&repo=TARL-Game&theme=tokyonight)](https://github.com/MedGm/TARL-Game)
+  <a href="https://github.com/MedGm/TARL-Game" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MedGm&repo=TARL-Game&theme=tokyonight" alt="TARL Game" />
+  </a>
 
-[![GameHaven](https://github-readme-stats.vercel.app/api/pin/?username=MedGm&repo=GameHaven&theme=tokyonight)](https://github.com/MedGm/GameHaven)
+  <a href="https://github.com/MedGm/GameHaven" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MedGm&repo=GameHaven&theme=tokyonight" alt="GameHaven" />
+  </a>
 
-[![PHP Project](https://github-readme-stats.vercel.app/api/pin/?username=MedGm&repo=PHP-Project&theme=tokyonight)](https://github.com/MedGm/PHP-Project)
+  <a href="https://github.com/MedGm/EEG-Seizure-Detection-System" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MedGm&repo=EEG-Seizure-Detection-System&theme=tokyonight" alt="EEG Seizure Detection System" />
+  </a>
 
 </div>
+
 
 ## 📊 GitHub Stats
 
