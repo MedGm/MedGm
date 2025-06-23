@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Software and Intelligent Systems Engineering student** passionate about **Artificial Intelligence** and **Development**. I love exploring new technologies, diving into **game development**, and constantly expanding my knowledge in **AI technologies**.
+I am a **Software and Intelligent Systems Engineering student** passionate about **Machine Learning** and **Development**. I love exploring new technologies, diving into **game development**, and constantly expanding my knowledge in **AI**.
 
 - Currently learning and experimenting with **AI** & **Software Development**
 - Passionate about exploring cutting-edge technologies and building innovative solutions
