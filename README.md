@@ -13,9 +13,9 @@
 
 ## 👨‍💻 About Me
 
-I am a **Software and Intelligent Systems Engineering student** passionate about **Machine Learning** and **Development**. I love exploring new technologies, diving into **game development**, and constantly expanding my knowledge in **AI**.
+I am a **Software and Intelligent Systems Engineering student** passionate about **Machine Learning** and **Development**. I love exploring new technologies, diving into **game development**, and constantly expanding my knowledge in **ML Concepts**.
 
-- Currently learning and experimenting with **AI** & **Software Development**
+- Currently learning and experimenting with **Machine Learning Models** & **Software Development**
 - Passionate about exploring cutting-edge technologies and building innovative solutions
 - Enthusiastic about **game development** and integrating AI into interactive experiences
 - Chess Enthusiast
