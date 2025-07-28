@@ -58,18 +58,22 @@
 
 ## Featured Projects
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <a href="https://github.com/MedGm/TARL-Game" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MedGm&repo=TARL-Game&theme=tokyonight" alt="TARL Game" />
-  </a>
+<div align="center" >
 
   <a href="https://github.com/MedGm/GameHaven" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MedGm&repo=GameHaven&theme=tokyonight" alt="GameHaven" />
   </a>
 
+  <a href="https://github.com/MedGm/CodeHaven" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MedGm&repo=CodeHaven&theme=tokyonight" alt="CodeHaven" />
+  </a>
+
   <a href="https://github.com/MedGm/EEG-Seizure-Detection-System" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MedGm&repo=EEG-Seizure-Detection-System&theme=tokyonight" alt="EEG Seizure Detection System" />
+  </a>
+
+   <a href="https://github.com/MedGm/TARL-Game" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MedGm&repo=TARL-Game&theme=tokyonight" alt="TARL Game" />
   </a>
 
 </div>
