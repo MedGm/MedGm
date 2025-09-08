@@ -63,12 +63,12 @@ I love building **intelligent systems** that merge **research, engineering, and 
 
 <!-- Two per row -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MedGm&theme=highcontrast&hide_border=true&ring=ff8000&fire=ff8000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MedGm&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&title_color=ff8000&icon_color=ff8000" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedGm&layout=compact&theme=highcontrast&hide_border=true&title_color=ff8000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MedGm&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&title_color=ff8000&icon_color=ff8000" />
+  <img src="https://streak-stats.demolab.com?user=MedGm&theme=highcontrast&hide_border=true&ring=ff8000&fire=ff8000" />
 </p>
 
 </div>
