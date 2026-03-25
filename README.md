@@ -87,7 +87,7 @@ My focus is not just on making things work, but on making them **scalable, relia
 ## Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/mohamed-el-gorrim" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-el-gorrim-8052822a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="linkedin" />
   </a>
   <a href="https://github.com/MedGm" target="_blank">
