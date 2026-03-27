@@ -60,11 +60,7 @@ My focus is not just on making things work, but on making them **scalable, relia
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MedGm&show_icons=true&theme=dracula&hide_border=false&rank_icon=github" height="160" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MedGm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="160" alt="top languages" />
-</div>
-
-<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MedGm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="160" alt="top languages" />
   <img src="https://streak-stats.demolab.com?user=MedGm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="streak graph" />
 </div>
 
