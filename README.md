@@ -13,8 +13,8 @@
 
 I am **Mohamed El Gorrim** (`@MedGm`), a Software & Intelligent Systems Engineering student passionate about building systems at the intersection of:
 
-- **Artificial Intelligence & Machine Learning**
-- **MLOps / LLMOps**
+- **Artificial Intelligence / Machine LearningR/ VR & AR**
+- **MLOPS**
 - **Full-Stack Engineering**
 - **Distributed and production-grade systems**
 
