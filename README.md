@@ -7,19 +7,116 @@
 
 </div>
 
+<div align="center">
+
+[![Open to Internship](https://img.shields.io/badge/Open%20to-Summer%202026%20Internship-brightgreen?style=for-the-badge&logo=calendar&logoColor=white)](mailto:elgorrim.mohamed@etu.uae.ac.ma)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-medgmportfolio.vercel.app-FF8000?style=for-the-badge&logo=vercel&logoColor=white)](https://medgmportfolio.vercel.app/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elgorrim.mohamed@etu.uae.ac.ma)
+
+</div>
+
 ---
 
 ## About Me
 
 I am (`@MedGm`), a Software & Intelligent Systems Engineering student passionate about building systems at the intersection of:
 
-- **Artificial Intelligence / Machine Learning/ VR & AR**
-- **MLOPS**
+- **Artificial Intelligence / Machine Learning / VR & AR**
+- **MLOps / LLMOps**
 - **Full-Stack Engineering**
 - **Distributed and production-grade systems**
 
 I enjoy turning ideas into working products, from **data pipelines and ML models** to **APIs, dashboards, deployment, and observability**.  
 My focus is not just on making things work, but on making them **scalable, reliable, and useful in real environments**.
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MedGm/Real-time-Product-Recommender">Real-Time Product Recommender</a></h3>
+      <p>Lambda-architecture streaming pipeline on 568k Amazon reviews</p>
+      <ul>
+        <li>ALS model: <strong>RMSE 0.497</strong> vs baseline 1.55</li>
+        <li>Kafka ingestion: <strong>200k messages</strong>, serving 11,751 users</li>
+        <li>FastAPI latency: <strong>&lt;5ms p50</strong></li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MedGm/Privacy-Preserving-Multi-Agent-Data-Platform">Federated Healthcare Analytics</a></h3>
+      <p>Federated learning with differential privacy across 5 hospital nodes</p>
+      <ul>
+        <li>Accuracy: <strong>96.49%</strong> vs 95.61% centralized baseline</li>
+        <li>Zero raw patient data exchanged (ε=8 differential privacy)</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MedGm/MoroccanLLM">MoroccoTone — Darija LLM</a></h3>
+      <p>QLoRA fine-tuning of Qwen2.5-7B for Moroccan Darija NLP</p>
+      <ul>
+        <li>Dataset: <strong>55,140 examples</strong> curated from 3 sources</li>
+        <li>Val loss: <strong>0.804 → 0.590</strong> with 4-bit QLoRA</li>
+        <li>Adapter published on HuggingFace</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MedGm/Ollie">Ollie ⭐ 48</a></h3>
+      <p>Fast, Linux-native desktop GUI for Ollama</p>
+      <ul>
+        <li>Built with Tauri 2 (Rust) + React + TypeScript</li>
+        <li>48 stars, 5 forks — active open source adoption</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Experience
+
+**Software Engineering Intern** — Dinomite Studios, Tangier · *Summer 2025*  
+Unity-based adaptive learning platform (TARL methodology); built learner progression & teacher analytics features across 3 modules in a 5-person Agile team.
+
+---
+
+## Certifications
+
+<div align="center">
+
+[![Oracle OCI Gen AI Professional](https://img.shields.io/badge/Oracle%20OCI-Gen%20AI%20Professional%20%7C%20Feb%202026-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
+&nbsp;
+[![Oracle OCI AI Foundations](https://img.shields.io/badge/Oracle%20OCI-AI%20Foundations%20Associate%20%7C%20Sep%202025-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
+&nbsp;
+[![NVIDIA DLI](https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20Deep%20Learning%20%7C%20Nov%202025-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/training/)
+
+</div>
 
 ---
 
@@ -70,6 +167,14 @@ My focus is not just on making things work, but on making them **scalable, relia
 
 ---
 
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MedGm&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=1" alt="github trophies" />
+</div>
+
+---
+
 ## Contribution Graph
 
 <picture>
@@ -88,6 +193,12 @@ My focus is not just on making things work, but on making them **scalable, relia
   </a>
   <a href="https://github.com/MedGm" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="github" />
+  </a>
+  <a href="https://medgmportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF8000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="portfolio" />
+  </a>
+  <a href="mailto:elgorrim.mohamed@etu.uae.ac.ma" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="email" />
   </a>
 </div>
 
