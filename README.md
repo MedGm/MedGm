@@ -11,7 +11,7 @@
 
 ## About Me
 
-I am **Mohamed El Gorrim** (`@MedGm`), a Software & Intelligent Systems Engineering student passionate about building systems at the intersection of:
+I am (`@MedGm`), a Software & Intelligent Systems Engineering student passionate about building systems at the intersection of:
 
 - **Artificial Intelligence / Machine Learning/ VR & AR**
 - **MLOPS**
@@ -26,7 +26,11 @@ My focus is not just on making things work, but on making them **scalable, relia
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,php,rust" height="55" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" height="55" alt="ml stack" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" height="55" alt="databases" />
 </div>
 
 <div align="center">
@@ -34,11 +38,7 @@ My focus is not just on making things work, but on making them **scalable, relia
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" height="55" alt="ml stack" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" height="55" alt="databases" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,php,rust" height="55" alt="languages" />
 </div>
 
 <div align="center">
