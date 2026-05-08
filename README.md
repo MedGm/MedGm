@@ -99,13 +99,6 @@ My focus is not just on making things work, but on making them **scalable, relia
 
 ---
 
-## Experience
-
-**Software Engineering Intern** — Dinomite Studios, Tangier · *Summer 2025*  
-Unity-based adaptive learning platform (TARL methodology); built learner progression & teacher analytics features across 3 modules in a 5-person Agile team.
-
----
-
 ## Certifications
 
 <div align="center">
