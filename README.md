@@ -81,7 +81,7 @@ My focus is not just on making things work, but on making them **scalable, relia
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MedGm/Ollie">Ollie ⭐ 48</a></h3>
+      <h3><a href="https://github.com/MedGm/Ollie">Ollie ⭐ 50</a></h3>
       <p>Fast, Linux-native desktop GUI for Ollama</p>
       <ul>
         <li>Built with Tauri 2 (Rust) + React + TypeScript</li>
