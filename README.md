@@ -9,8 +9,6 @@
 
 <div align="center">
 
-[![Open to Internship](https://img.shields.io/badge/Open%20to-Summer%202026%20Internship-brightgreen?style=for-the-badge&logo=calendar&logoColor=white)](mailto:elgorrim.mohamed@etu.uae.ac.ma)
-&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-medgmportfolio.vercel.app-FF8000?style=for-the-badge&logo=vercel&logoColor=white)](https://medgmportfolio.vercel.app/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elgorrim.mohamed@etu.uae.ac.ma)
@@ -23,8 +21,8 @@
 
 I am (`@MedGm`), a Software & Intelligent Systems Engineering student passionate about building systems at the intersection of:
 
-- **Artificial Intelligence / Machine Learning / VR & AR**
-- **MLOps / LLMOps**
+- **Artificial Intelligence / Data Science**
+- **Machine Learning / MLOps**
 - **Full-Stack Engineering**
 - **Distributed and production-grade systems**
 
@@ -81,11 +79,11 @@ My focus is not just on making things work, but on making them **scalable, relia
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MedGm/Ollie">Ollie ⭐ 50</a></h3>
+      <h3><a href="https://github.com/MedGm/Ollie">Ollie ⭐ 53</a></h3>
       <p>Fast, Linux-native desktop GUI for Ollama</p>
       <ul>
         <li>Built with Tauri 2 (Rust) + React + TypeScript</li>
-        <li>48 stars, 5 forks — active open source adoption</li>
+        <li>53 stars, 9 forks — active open source adoption</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
@@ -137,33 +135,10 @@ My focus is not just on making things work, but on making them **scalable, relia
 
 ---
 
-## What I Like Building
-
-- AI-powered applications and assistants
-- MLOps / LLMOps systems and evaluation pipelines
-- Full-stack platforms with clean architecture
-- APIs, dashboards, and developer tooling
-- Research-driven engineering projects with practical value
-
----
-
 ## GitHub Analytics
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MedGm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="160" alt="top languages" />
-  <img src="https://streak-stats.demolab.com?user=MedGm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="streak graph" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MedGm&radius=16&theme=dracula&area=true" height="300" alt="activity graph" />
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MedGm&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=1" alt="github trophies" />
 </div>
 
 ---
@@ -184,9 +159,6 @@ My focus is not just on making things work, but on making them **scalable, relia
   <a href="https://www.linkedin.com/in/mohamed-el-gorrim-8052822a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="linkedin" />
   </a>
-  <a href="https://github.com/MedGm" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="github" />
-  </a>
   <a href="https://medgmportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF8000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="portfolio" />
   </a>
@@ -194,8 +166,6 @@ My focus is not just on making things work, but on making them **scalable, relia
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="email" />
   </a>
 </div>
-
----
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MedGm.MedGm" />
