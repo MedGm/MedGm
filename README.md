@@ -2,7 +2,7 @@
 <h3 align="center">Software &amp; Intelligent Systems Engineer — ML/MLOps, Distributed AI</h3>
 
 <p align="center">
-  <img src="mohamed.jpeg" width="180" alt="Mohamed El Gorrim" style="border-radius:50%;" />
+  <img src="mohamed.jpeg" width="210" alt="Mohamed El Gorrim" style="border-radius:50%;" />
 </p>
 
 <p align="center"><sub><em>
@@ -22,7 +22,7 @@ And in the end, I concluded: the human mind will always stay a wonder, no matter
 
 ---
 
-## Now
+## Experiences
 
 **AI Research Intern @ UM6P** — Geology and Sustainable Mining Institute, Ben Guerir. Rebuilt a geosite-discovery pipeline after finding target leakage in the original: 939 expert-sourced labels, 500m-clustered CV, McNemar-tested across four tree models — 74.9%/71.7% binary accuracy, presence-background model at 0.956 AUC. Also modeling Cr(VI) adsorption on iron-grafted biochars with study-grouped/leave-one-study-out validation (Random Forest, R² = 0.893, externally validated).
 
@@ -96,7 +96,7 @@ Also: <a href="https://github.com/MedGm/Oracle-AI-Platform">Oracle AI Platform</
 | | |
 |---|---|
 | **Publication** | [FSC-Net: Fast-Slow Consolidation Networks for Continual Learning](https://arxiv.org/abs/2511.11707) (arXiv:2511.11707) — dual-network architecture mitigating catastrophic forgetting, +8.20pp retention gain on Split-CIFAR-10 |
-| **Competitions** | Moroccan Collegiate Programming Contest (MCPC 2025), CODE IT V8 (EHTP), [NVIDIA Nemotron Reasoning Challenge](https://www.kaggle.com/code/elgorrimmohamed/nvidia-nemotron-model-reasoning-challenge) (Kaggle, LoRA reasoning, score 0.656) |
+| **Competitions** | Moroccan Collegiate Programming Contest (MCPC 2025), CODE IT V8 (EHTP), [NVIDIA Nemotron Reasoning Challenge](https://www.kaggle.com/code/elgorrimmohamed/nvidia-nemotron-model-reasoning-challenge) (Kaggle, LoRA reasoning, score 0.656), [Kaggriculture](https://github.com/MedGm/kaggriculture-agent) (Kaggle farming-sim capstone — rule-based crop agent, beats baseline ~$13.5k vs ~$3.5k) |
 | **Certifications** | Oracle Cloud Gen AI Professional, OCI AI Foundations Associate |
 
 ---
@@ -104,20 +104,29 @@ Also: <a href="https://github.com/MedGm/Oracle-AI-Platform">Oracle AI Platform</
 ## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" height="50" alt="ml" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=kafka" height="50" alt="streaming" />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="50" alt="infra" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi,react,ts,java,cpp,rust" height="50" alt="dev" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" height="50" alt="db" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" height="55" alt="ml stack" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" height="55" alt="databases" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,express,flask,laravel,symfony" height="55" alt="web stack" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,php,rust" height="55" alt="languages" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,ubuntu,vscode,idea,postman,unity" height="55" alt="tools" />
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MedGm&radius=16&theme=dracula&area=true" height="280" alt="activity graph" />
+  <img src="https://streak-stats.demolab.com?user=MedGm&theme=dark&hide_border=true&ring=FF8000&fire=FF8000&currStreakLabel=FF8000" height="180" alt="GitHub streak stats" />
 </p>
 
 <picture>
