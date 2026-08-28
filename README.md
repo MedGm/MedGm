@@ -2,7 +2,7 @@
 <h3 align="center">Software &amp; Intelligent Systems Engineer, but loves ML/MLOps, and Distributed AI</h3>
 
 <p align="center">
-  <img src="mohamed.jpeg" width="320" alt="Mohamed El Gorrim" style="border-radius:50%;" />
+  <img src="mohamed.jpeg" width="280" alt="Mohamed El Gorrim" style="border-radius:50%;" />
 </p>
 
 <p align="center"><sub><em><strong>
