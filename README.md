@@ -1,16 +1,16 @@
 <h1 align="center">Mohamed El Gorrim</h1>
-<h3 align="center">Software &amp; Intelligent Systems Engineer — ML/MLOps, Distributed AI</h3>
+<h3 align="center">Software &amp; Intelligent Systems Engineer, but loves ML/MLOps, and Distributed AI</h3>
 
 <p align="center">
-  <img src="mohamed.jpeg" width="210" alt="Mohamed El Gorrim" style="border-radius:50%;" />
+  <img src="mohamed.jpeg" width="320" alt="Mohamed El Gorrim" style="border-radius:50%;" />
 </p>
 
-<p align="center"><sub><em>
+<p align="center"><sub><em><strong>
 Most of my work on AI relies on understanding data — closing the gap between a notebook that works once<br />
 and a model that survives real-world data. But I always find myself questioning why it can't generalize at real-world scale,<br />
 why a model behaves like a bad human and cheats its way to a good train result.<br />
 And in the end, I concluded: the human mind will always stay a wonder, no matter what AI reaches.
-</em></sub></p>
+</em></sub></p></strong>
 
 <p align="center">
   <a href="https://medgmportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-medgmportfolio.vercel.app-FF8000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
