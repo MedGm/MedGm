@@ -1,33 +1,32 @@
-<h1 align="center">Salam, I'm Mohamed El Gorrim</h1>
-<h3 align="center">Software & Intelligent Systems Engineering Student | AI/ML Engineer in Progress | Full-Stack Builder</h3>
+<h1 align="center">Mohamed El Gorrim</h1>
+<h3 align="center">Software &amp; Intelligent Systems Engineer — ML/MLOps, Distributed AI</h3>
 
-<div align="center">
+<p align="center">
+  <img src="mohamed.jpeg" width="180" alt="Mohamed El Gorrim" style="border-radius:50%;" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF8000&center=true&vCenter=true&random=false&width=700&lines=Software+Engineering+Student;Applied+AI+%7C+MLOps+%7C+Full-Stack+Development;Building+intelligent+systems;Open-source+builder+and+continuous+learner)](https://git.io/typing-svg)
+<p align="center"><sub><em>
+Most of my work on AI relies on understanding data — closing the gap between a notebook that works once<br />
+and a model that survives real-world data. But I always find myself questioning why it can't generalize at real-world scale,<br />
+why a model behaves like a bad human and cheats its way to a good train result.<br />
+And in the end, I concluded: the human mind will always stay a wonder, no matter what AI reaches.
+</em></sub></p>
 
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-medgmportfolio.vercel.app-FF8000?style=for-the-badge&logo=vercel&logoColor=white)](https://medgmportfolio.vercel.app/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elgorrim.mohamed@etu.uae.ac.ma)
-
-</div>
+<p align="center">
+  <a href="https://medgmportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-medgmportfolio.vercel.app-FF8000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="mailto:elgorrim.mohamed@etu.uae.ac.ma"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mohamed-el-gorrim/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
-## About Me
+## Now
 
-I am (`@MedGm`), a Software & Intelligent Systems Engineering student passionate about building systems at the intersection of:
+**AI Research Intern @ UM6P** — Geology and Sustainable Mining Institute, Ben Guerir. Rebuilt a geosite-discovery pipeline after finding target leakage in the original: 939 expert-sourced labels, 500m-clustered CV, McNemar-tested across four tree models — 74.9%/71.7% binary accuracy, presence-background model at 0.956 AUC. Also modeling Cr(VI) adsorption on iron-grafted biochars with study-grouped/leave-one-study-out validation (Random Forest, R² = 0.893, externally validated).
 
-- **Artificial Intelligence / Data Science**
-- **Machine Learning / MLOps**
-- **Full-Stack Engineering**
-- **Distributed and production-grade systems**
-
-I enjoy turning ideas into working products, from **data pipelines and ML models** to **APIs, dashboards, deployment, and observability**.  
-My focus is not just on making things work, but on making them **scalable, reliable, and useful in real environments**.
+**AI/ML Engineering Intern @ FaceJob** (remote) — Built the AI pipeline for a video-CV recruitment platform from scratch: FastAPI, Whisper transcription, LLM-based coaching/pitch generation on AWS ECS/RDS/IAM, with injection-resistant prompts and content-validation gates against prompt injection.
 
 ---
 
@@ -36,114 +35,90 @@ My focus is not just on making things work, but on making them **scalable, relia
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MedGm/Real-time-Product-Recommender">Real-Time Product Recommender</a></h3>
-      <p>Lambda-architecture streaming pipeline on 568k Amazon reviews</p>
+      <h3><a href="https://github.com/MedGm/Ollie">Ollie</a></h3>
+      <p>Fast, Linux-native desktop GUI for Ollama — Tauri 2 (Rust) + React/TypeScript.</p>
       <ul>
-        <li>ALS model: <strong>RMSE 0.497</strong> vs baseline 1.55</li>
-        <li>Kafka ingestion: <strong>200k messages</strong>, serving 11,751 users</li>
-        <li>FastAPI latency: <strong>&lt;5ms p50</strong></li>
+        <li><strong>50 stars, 7 forks</strong> — real adoption, not a portfolio piece</li>
+        <li>Local-first chat UI, model management, vision/file analysis, live resource monitoring</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      </p>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MedGm/Privacy-Preserving-Multi-Agent-Data-Platform">Federated Healthcare Analytics</a></h3>
-      <p>Federated learning with differential privacy across 5 hospital nodes</p>
+      <h3><a href="https://github.com/MedGm/Real-time-Product-Recommender">Real-Time Product Recommender</a></h3>
+      <p>Lambda-architecture streaming pipeline: Kafka + Spark (batch &amp; streaming) + Airflow.</p>
       <ul>
-        <li>Accuracy: <strong>96.49%</strong> vs 95.61% centralized baseline</li>
-        <li>Zero raw patient data exchanged (ε=8 differential privacy)</li>
+        <li>568k reviews ingested, auto-retrained via Airflow</li>
+        <li>Bias-decomposed ALS: <strong>RMSE 1.55 → 0.497</strong>, served to 11,751 users at &lt;5ms p50 via FastAPI</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </p>
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MedGm/MoroccanLLM">MoroccoTone — Darija LLM</a></h3>
-      <p>QLoRA fine-tuning of Qwen2.5-7B for Moroccan Darija NLP</p>
+      <h3><a href="https://github.com/MedGm/PRISM">PRISM</a></h3>
+      <p>Product Ranking Intelligence &amp; Signal Mining — e-commerce intelligence platform, zero to insight.</p>
       <ul>
-        <li>Dataset: <strong>55,140 examples</strong> curated from 3 sources</li>
-        <li>Val loss: <strong>0.804 → 0.590</strong> with 4-bit QLoRA</li>
-        <li>Adapter published on HuggingFace</li>
+        <li>1,757 products scraped from 8 stores into 9 typed Kubeflow Pipelines components</li>
+        <li>Great Expectations DQ gate, RF+XGBoost scoring, KMeans/DBSCAN clustering, Apriori rules</li>
+        <li>Served via FastAPI with live Gemini LLM chat over a DuckDB warehouse</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      </p>
+      <img src="https://img.shields.io/badge/Kubeflow-0F9D58?style=flat-square&logo=kubernetes&logoColor=white"/>
+      <img src="https://img.shields.io/badge/XGBoost-EB0028?style=flat-square"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MedGm/Ollie">Ollie ⭐ 53</a></h3>
-      <p>Fast, Linux-native desktop GUI for Ollama</p>
+      <h3><a href="https://github.com/MedGm/MoroccanLLM">MoroccoTone</a></h3>
+      <p>Darija LLM fine-tuning — QLoRA post-training of Qwen2.5-7B for dialectal NLP and code-switching.</p>
       <ul>
-        <li>Built with Tauri 2 (Rust) + React + TypeScript</li>
-        <li>53 stars, 9 forks — active open source adoption</li>
+        <li>Curated 55,140 Darija-French code-switching examples</li>
+        <li>4-bit QLoRA via Unsloth: val loss <strong>0.804 → 0.590</strong></li>
+        <li>Adapter + dataset published on Hugging Face</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      </p>
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Unsloth-FF6600?style=flat-square"/>
     </td>
   </tr>
 </table>
 
----
-
-## Certifications
-
-<div align="center">
-
-[![Oracle OCI Gen AI Professional](https://img.shields.io/badge/Oracle%20OCI-Gen%20AI%20Professional%20%7C%20Feb%202026-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
-&nbsp;
-[![Oracle OCI AI Foundations](https://img.shields.io/badge/Oracle%20OCI-AI%20Foundations%20Associate%20%7C%20Sep%202025-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
-&nbsp;
-[![NVIDIA DLI](https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20Deep%20Learning%20%7C%20Nov%202025-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/training/)
-
-</div>
+<sub>
+Also: <a href="https://github.com/MedGm/Oracle-AI-Platform">Oracle AI Platform</a> — RAG-assisted Oracle DBA copilot (ChromaDB + SentenceTransformers, grounded LLM for security scoring and log-based anomaly detection)
+</sub>
 
 ---
 
-## Tech Stack
+## Research &amp; Competitions
+
+| | |
+|---|---|
+| **Publication** | [FSC-Net: Fast-Slow Consolidation Networks for Continual Learning](https://arxiv.org/abs/2511.11707) (arXiv:2511.11707) — dual-network architecture mitigating catastrophic forgetting, +8.20pp retention gain on Split-CIFAR-10 |
+| **Competitions** | Moroccan Collegiate Programming Contest (MCPC 2025), CODE IT V8 (EHTP), [NVIDIA Nemotron Reasoning Challenge](https://www.kaggle.com/code/elgorrimmohamed/nvidia-nemotron-model-reasoning-challenge) (Kaggle, LoRA reasoning, score 0.656) |
+| **Certifications** | Oracle Cloud Gen AI Professional, OCI AI Foundations Associate |
+
+---
+
+## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" height="55" alt="ml stack" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" height="55" alt="databases" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,express,flask,laravel,symfony" height="55" alt="web stack" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,php,rust" height="55" alt="languages" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,ubuntu,vscode,idea,postman,unity" height="55" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" height="50" alt="ml" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kafka" height="50" alt="streaming" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="50" alt="infra" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi,react,ts,java,cpp,rust" height="50" alt="dev" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" height="50" alt="db" />
 </div>
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MedGm&radius=16&theme=dracula&area=true" height="300" alt="activity graph" />
-</div>
-
----
-
-## Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MedGm&radius=16&theme=dracula&area=true" height="280" alt="activity graph" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MedGm/MedGm/output/pacman-contribution-graph-dark.svg">
@@ -153,28 +128,9 @@ My focus is not just on making things work, but on making them **scalable, relia
 
 ---
 
-## Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-el-gorrim-8052822a0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="linkedin" />
-  </a>
-  <a href="https://medgmportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF8000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="portfolio" />
-  </a>
-  <a href="mailto:elgorrim.mohamed@etu.uae.ac.ma" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="email" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MedGm.MedGm" />
-</div>
-
----
-
-<div align="center">
-
-**Building intelligent systems with engineering discipline and curiosity.**
-
-</div>
+<p align="center">
+  <a href="https://github.com/MedGm">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/mohamed-el-gorrim/">LinkedIn</a> ·
+  <a href="https://medgmportfolio.vercel.app/">Portfolio</a> ·
+  <a href="mailto:elgorrim.mohamed@etu.uae.ac.ma">Email</a>
+</p>
