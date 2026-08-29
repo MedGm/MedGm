@@ -24,9 +24,9 @@ And in the end, I concluded: the human mind will always stay a wonder, no matter
 
 ## Experiences
 
-**AI Research Intern @ UM6P** — Geology and Sustainable Mining Institute, Ben Guerir. Rebuilt a geosite-discovery pipeline after finding target leakage in the original: 939 expert-sourced labels, 500m-clustered CV, McNemar-tested across four tree models — 74.9%/71.7% binary accuracy, presence-background model at 0.956 AUC. Also modeling Cr(VI) adsorption on iron-grafted biochars with study-grouped/leave-one-study-out validation (Random Forest, R² = 0.893, externally validated).
+**AI Research Intern @ UM6P** (Geology and Sustainable Mining Institute, Ben Guerir). Rebuilt a geosite-discovery pipeline after finding target leakage in the original, retraining it on 1662 expert-sourced labels with properly clustered cross-validation. Also modeling Cr(VI) adsorption on iron-grafted biochars.
 
-**AI/ML Engineering Intern @ FaceJob** (remote) — Built the AI pipeline for a video-CV recruitment platform from scratch: FastAPI, Whisper transcription, LLM-based coaching/pitch generation on AWS ECS/RDS/IAM, with injection-resistant prompts and content-validation gates against prompt injection.
+**AI/ML Engineering Intern @ FaceJob** (remote). Built the AI pipeline for a video-CV recruitment platform from scratch, from Whisper transcription to LLM-based coaching, hardened against prompt injection.
 
 ---
 
@@ -36,22 +36,14 @@ And in the end, I concluded: the human mind will always stay a wonder, no matter
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/MedGm/Ollie">Ollie</a></h3>
-      <p>Fast, Linux-native desktop GUI for Ollama — Tauri 2 (Rust) + React/TypeScript.</p>
-      <ul>
-        <li><strong>56 stars, 9 forks</strong> — real adoption, not a portfolio piece</li>
-        <li>Local-first chat UI, model management, vision/file analysis, live resource monitoring</li>
-      </ul>
+      <p>A Linux-native desktop GUI for Ollama, built with Tauri and React. Picked up 56 stars and 9 forks from people who aren't me.</p>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
       <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/MedGm/Real-time-Product-Recommender">Real-Time Product Recommender</a></h3>
-      <p>Lambda-architecture streaming pipeline: Kafka + Spark (batch &amp; streaming) + Airflow.</p>
-      <ul>
-        <li>568k reviews ingested, auto-retrained via Airflow</li>
-        <li>Bias-decomposed ALS: <strong>RMSE 1.55 → 0.497</strong>, served to 11,751 users at &lt;5ms p50 via FastAPI</li>
-      </ul>
+      <p>A streaming recommender pipeline on Kafka, Spark and Airflow that ingests hundreds of thousands of reviews, retrains itself, and serves predictions through FastAPI in a few milliseconds.</p>
       <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
       <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
@@ -60,24 +52,14 @@ And in the end, I concluded: the human mind will always stay a wonder, no matter
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/MedGm/PRISM">PRISM</a></h3>
-      <p>Product Ranking Intelligence &amp; Signal Mining — e-commerce intelligence platform, zero to insight.</p>
-      <ul>
-        <li>1,757 products scraped from 8 stores into 9 typed Kubeflow Pipelines components</li>
-        <li>Great Expectations DQ gate, RF+XGBoost scoring, KMeans/DBSCAN clustering, Apriori rules</li>
-        <li>Served via FastAPI with live Gemini LLM chat over a DuckDB warehouse</li>
-      </ul>
+      <p>An e-commerce intelligence platform that scrapes products across stores, scores and clusters them with classic ML, then answers questions through a Gemini-powered chat over the results.</p>
       <img src="https://img.shields.io/badge/Kubeflow-0F9D58?style=flat-square&logo=kubernetes&logoColor=white"/>
       <img src="https://img.shields.io/badge/XGBoost-EB0028?style=flat-square"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/MedGm/MoroccanLLM">MoroccoTone</a></h3>
-      <p>Darija LLM fine-tuning — QLoRA post-training of Qwen2.5-7B for dialectal NLP and code-switching.</p>
-      <ul>
-        <li>Curated 55,140 Darija-French code-switching examples</li>
-        <li>4-bit QLoRA via Unsloth: val loss <strong>0.804 → 0.590</strong></li>
-        <li>Adapter + dataset published on Hugging Face</li>
-      </ul>
+      <p>Fine-tuned Qwen2.5-7B on Darija-French code-switching with QLoRA, then published the adapter and dataset on Hugging Face.</p>
       <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/Unsloth-FF6600?style=flat-square"/>
@@ -86,7 +68,7 @@ And in the end, I concluded: the human mind will always stay a wonder, no matter
 </table>
 
 <sub>
-Also: <a href="https://github.com/MedGm/Oracle-AI-Platform">Oracle AI Platform</a> — RAG-assisted Oracle DBA copilot (ChromaDB + SentenceTransformers, grounded LLM for security scoring and log-based anomaly detection)
+Also: <a href="https://github.com/MedGm/Oracle-AI-Platform">Oracle AI Platform</a>, a RAG-assisted Oracle DBA copilot for security scoring and log anomaly detection.
 </sub>
 
 ---
@@ -95,8 +77,8 @@ Also: <a href="https://github.com/MedGm/Oracle-AI-Platform">Oracle AI Platform</
 
 | | |
 |---|---|
-| **Publication** | [FSC-Net: Fast-Slow Consolidation Networks for Continual Learning](https://arxiv.org/abs/2511.11707) (arXiv:2511.11707) — dual-network architecture mitigating catastrophic forgetting, +8.20pp retention gain on Split-CIFAR-10 |
-| **Competitions** | Moroccan Collegiate Programming Contest (MCPC 2025), CODE IT V8 (EHTP), [NVIDIA Nemotron Reasoning Challenge](https://www.kaggle.com/code/elgorrimmohamed/nvidia-nemotron-model-reasoning-challenge) (Kaggle, LoRA reasoning, score 0.656), [Kaggriculture](https://github.com/MedGm/kaggriculture-agent) (Kaggle farming-sim capstone — rule-based crop agent, beats baseline ~$13.5k vs ~$3.5k) |
+| **Publication** | [FSC-Net: Fast-Slow Consolidation Networks for Continual Learning](https://arxiv.org/abs/2511.11707) (arXiv:2511.11707), a dual-network architecture that fights catastrophic forgetting on Split-CIFAR-10 |
+| **Competitions** | Moroccan Collegiate Programming Contest (MCPC 2025), CODE IT V8 (EHTP), the [NVIDIA Nemotron Reasoning Challenge](https://www.kaggle.com/code/elgorrimmohamed/nvidia-nemotron-model-reasoning-challenge) on Kaggle, and [Kaggriculture](https://github.com/MedGm/kaggriculture-agent), a farming-sim capstone where a rule-based crop agent beat the baseline by roughly 4x |
 | **Certifications** | Oracle Cloud Gen AI Professional, OCI AI Foundations Associate |
 
 ---
