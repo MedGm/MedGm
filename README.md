@@ -38,7 +38,7 @@ And in the end, I concluded: the human mind will always stay a wonder, no matter
       <h3><a href="https://github.com/MedGm/Ollie">Ollie</a></h3>
       <p>Fast, Linux-native desktop GUI for Ollama — Tauri 2 (Rust) + React/TypeScript.</p>
       <ul>
-        <li><strong>50 stars, 7 forks</strong> — real adoption, not a portfolio piece</li>
+        <li><strong>56 stars, 9 forks</strong> — real adoption, not a portfolio piece</li>
         <li>Local-first chat UI, model management, vision/file analysis, live resource monitoring</li>
       </ul>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
